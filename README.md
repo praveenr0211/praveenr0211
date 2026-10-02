@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Praveen Revalla
+# 👋 Hi, I'm Praveen Kumar Revalla
 
 ### 🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast | 💡 Problem Solver
 
@@ -28,7 +28,6 @@
 
 ## 👨‍💻 About Me
 
-text
 🎓 B.Tech Computer Science Engineering Student
 💻 Full-Stack Developer
 🤖 AI/ML & Generative AI Enthusiast
@@ -239,7 +238,7 @@ I believe the best way to learn technology is by building real-world projects an
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/praveen-kumar-revalla-a152442b1">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
